@@ -9,7 +9,7 @@ This repository contains all of the notes taken by [Abdullah](https://github.com
 | Week 1   |          |                                                                 |
 |:--------:|:--------:|-----------------------------------------------------------------|
 |          | Day 1    | - [What Shoud I Do For Lunch Tips](/Week_1/Day_1/Lunch_Tips.md) |
-|          | Day 2    |
+|          | Day 2    | - [Functions](/Week_1/Day_2/Functions.md) <br> - [Scope](/Week_1/Day_2/Scope.md) <br> - [Errors](/Week_1/Day_2/Errors.md) <br> - [Type Coercion & Truthy/Falsey](/Week_1/Day_2/Coercion.md)
 |          | Day 3    | - [Objects](/Week_1/Day_3/Objects.md) <br> - [Primitives](/Week_1/Day_3/Primitives.md)                                                                                     |
 |          | Day 4    |                                                                 |
 |          | Day 5    |                                                                 |
