@@ -5,7 +5,6 @@
 This repository contains all of the notes taken by [Abdullah](https://github.com/akhan445) for the Lighthouse Labs Web Development Bootcamp.This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
 
 ## Curriculum
----
 | Week    |         Topics                                                         | Technologies                     |
 |:-------:|:-----------------------------------------------------------------------|:---------------------------------|
 | 1       | **FOCAL**: Functions, Objects, Conditionals, Arrays, Loops             |                                  |
@@ -14,13 +13,10 @@ This repository contains all of the notes taken by [Abdullah](https://github.com
 | 4       | Front End- Client Side JS, Browsers, Box Model                         | jQuery, HTML & CSS, AJAX         |
 | 5       | Data- Databases & Data Design                                          | SQL, PostgreSQL                  |
 | 6       | Midterm Project                                                        |                                  |
-| 7 - 10  | Web Frameworks- Single Page Apps, Real-time Apps with Web Sockets, OOP | React, Babel, JSX, Ruby on Rails | 
-| 11 - 12 | Final Project                                                          |                                  |
-
+| 7-10    | Web Frameworks- Single Page Apps, Real-time Apps with Web Sockets, OOP | React, Babel, JSX, Ruby on Rails | 
+| 11-12   | Final Project                                                          |                                  |
 
 ## Table of Contents
----
-<br>
 
 #### **Week 1- F. O. C. A. L.**
 - Day 1
@@ -37,7 +33,6 @@ This repository contains all of the notes taken by [Abdullah](https://github.com
 - Day 5
 - Weekend
   - [Testing](/Week_1/Weekend/Testing.md)
-<br>
 
 #### **Week 2- Asynchronous Control Flow, Networking, HTTP & APIs**
 - Day 1

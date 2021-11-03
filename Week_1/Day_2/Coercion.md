@@ -1,24 +1,22 @@
-# Coercion and Truthy/Falsy
+# Coercion and Truthy/Falsey
 
 ## **Double Equals, Triple Equals, and Type Coercion**
-----
 
 `=== or !==` compares *value and type*
 - Compares type then actual values- short circuit on type!
 
-```javascript
-23 === "23" // false
-```
+  ```javascript
+  23 === "23" // false
+  ```
 
 `== or !=` compares only *value*
 - Before comparison will *force two values to be same type, if possible*-  (This is **Type Coercion**)
-```javascript
-23 == "23" // true
-```
-<br/>
+  ```javascript
+  23 == "23" // true
+  ```
 
-## Truthy and Falswy
-----
+## Truthy and Falsey
+
 In Javascript, everything has an inherent `Boolean` value (`Truthy` & `Falsey`)
 6 that are Falsey:
 ```javascript

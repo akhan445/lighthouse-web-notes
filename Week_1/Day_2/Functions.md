@@ -1,7 +1,7 @@
 # Functions
 
 ## **Best Practices**
----
+
 1. Gives functions ***precise*** verb/action based names
 2. Use ***camelCasedNames***
 3. Properly ***indent*** function code
@@ -11,10 +11,11 @@
 5. Ideal for functions to try to avoid reading outer scope variables. If function needs some information, ***it should be passed to function as a parameter***
 
 ## **Functions**
----
-<br>
+
+- Types of Functions in JS
 
 ### **Declarative Function**
+
 ```javascript
 function foo() {
   return 'bar'
@@ -22,6 +23,7 @@ function foo() {
 ```
 
 ### **Expression Function**
+
 ```javascript
 const foo = function() {
   return 'bar';
@@ -31,6 +33,7 @@ const foo = function() {
 const foo = () => 'bar'; // one line return
 ```
 ### **High Order Function and Callbacks**
+
 - A function that takes a function as a parameter
 - A callback is a function that is passed into another function as an argument
 ```javascript

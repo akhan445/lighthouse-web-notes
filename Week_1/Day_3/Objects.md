@@ -1,4 +1,5 @@
 # Objects
+
 - everything is javascript is an Object
 - Object contain `key:value` pairs, each key maps to a value
   1. key is unique

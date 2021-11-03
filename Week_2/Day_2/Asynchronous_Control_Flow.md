@@ -6,10 +6,9 @@ This is important to know because JavaScript runs in a single thread, so it can 
 - Avoid blocking that thread whenever possible.
 
 Review function types from Week 1 [here](/Week_1/Day_2/Functions.md#Functions).
-<br>
 
 ## **Async vs Sync**
----
+
 The main difference is that in synchronous programming, the main thread would wait (**idle** or **blocked**) despite having other tasks to complete.
 
 Sync
@@ -17,12 +16,10 @@ Sync
 
 Async 
 - Start Task1, go do something else, come back when finished and complete Task1
-<br>
 
 ## **Asynchronous Programming**
----
+
 Asynchronous behavior is when things occur out of order.
-<br>
 
 ***Asynchronous Programming*** is when a unit of work performs outside the main thread and notifies the program upon completion.
 
@@ -30,13 +27,11 @@ In JS, this is usually for longer tasks such as reading a file, waiting for inpu
 - Main program thread continues to run while these tasks are pushed to an event queue (event loop).
   - The event loop is handled by the engine that runs JS (node , V8, etc …). These engines are multithreaded and will run those functions in parallel.
 - Once the main thread finishes, then it goes back and checks the event queue for finished tasks and executes them.
-<br>
 
 ![eventLoop](https://i.stack.imgur.com/BTm1H.png)
-<br>
 
-## **How does JavaScript do that?**
----
+## **How does JavaScript perform asynchronously??**
+
 Through asynchronous **callback functions**
 
 ```javascript

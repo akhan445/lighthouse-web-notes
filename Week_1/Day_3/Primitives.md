@@ -1,6 +1,7 @@
 # Primitives
 
-## 6 Types of Primitive Data Types:
+## **6 Types of Primitive Data Types:**
+
 1. `undefined`
 2. `null`
 3. `number`
@@ -9,7 +10,8 @@
 5. `boolean`
 6. `symbol` (introduced in ES6)
 
-## Falsy Values: 
+## **Falsey Values:** 
+
 - `false`
 - `0` also `-0`
 - `null`
@@ -18,7 +20,8 @@
 - `NaN` 
 
 
-## Non-primitive Data type:
+## **Non-primitive Data types:**
+
 1. Object
     - anything not primitive is Object type
     - array is type Object

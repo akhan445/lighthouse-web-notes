@@ -3,7 +3,6 @@
 Errors are common part of the developer's world. Being comfortable with them is important as you will encounter them a lot. Below are a few common error types.
 
 ## **Syntax Errors**
----
 
 This is what a common syntax error generally looks like, let's break it down:
 
@@ -45,8 +44,9 @@ The Last part is known as the **stack trace**
       at node.js:814:3
 
 ## **Reference Errors**
-----
-These occur when you are trying to access the value of a variable that does not exist
+
+These occur when you are trying to access the value of a variable that does not exist.
+
 ```javascript
 var firstName = "Jane";
 var lastName = "Doe";
@@ -54,8 +54,9 @@ var lastName = "Doe";
 console.log(firstName, lasName); // lasName does not exist
 ```
 ## **Type Errors**
-----
-Represents an error when an operation could not be performed. Typically it is when a value is not of an expected type
+
+Represents an error when an operation could not be performed. Typically it is when a value is not of an expected type.
+
 ```javascript
 var favouriteMeal = "BREAKFAST";
 
