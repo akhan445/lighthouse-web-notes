@@ -12,4 +12,14 @@ TCP allows two machines to establish an open channel for ***two-way*** data comm
 1. One side initiates connection through "dialing a number" called the **IP Address**
 2. Each IP Address can have multiple numbers at the same location called **ports**
     - like phone number extensions
-    
+
+
+
+What is networking? (Quick review)
+TCP introduction (and demo)
+HTTP Fundamentals
+Its request & response nature
+How it leverages TCP
+Most important parts of a request
+Common status codes such as 200, 302, 404, and 500
+Simple node HTTP Client example (using request)
